@@ -24,7 +24,7 @@ individuals.
 2. Head over to your XAMPP directory, there you will find a folder named "htdocs".  
 3. Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).  
 4. Open your favorite browser.  
-5. Then, go to the URL “http://localhost/phpmyadmin”.  
+5. Then, go to the URL “ http://localhost/phpmyadmin ”.  
 6. Create a Database with a name 'cbsphp'.  
 7. Click on the “Import” tab and choose the database file (sql) which is provided under the folder
   naming “DATABASE FILE".  
